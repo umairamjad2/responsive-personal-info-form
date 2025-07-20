@@ -108,7 +108,7 @@ body {
     background-color: #fd6500;
 }
 /* Small Screens - Up to 370px */
-@media (max-width: 370px) {
+@media (max-width: 400px) {
     .form-row .form-group {
             width: 100%;
             
